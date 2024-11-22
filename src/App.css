@@ -1,0 +1,12 @@
+body {
+  margin: 50px 50px;
+}
+.logo {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+.App h1 {
+  font-size: 50px;
+  text-align: center;
+}
